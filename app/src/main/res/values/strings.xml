@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">BINUS Tour</string>
+    <string name="title_name"><b>BINUS</b> Tour</string>
+    <string name="locations">Locations</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="campus">Campus</string>
+    <string name="anggrek">Anggrek Campus</string>
+    <string name="syahdan">Syahdan Campus</string>
+    <string name="kijang">Kijang Campus</string>
+    <string name="alsut">\@Alam Sutera Campus</string>
+    <string name="jwc">Joseph Wibowo Center Campus</string>
+    <string name="fx">f(X) Campus</string>
+    <string name="bandung">Bandung</string>
+    <string name="bekasi_campus">Bekasi Campus</string>
+    <string name="bandung_campus">BINUS \@Bandung</string>
+    <string name="malang_campus">BINUS \@Malang</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="anggrek_address">Jl. Kebon Jeruk Raya No. 27 Kebon Jeruk Jakarta Barat 11530</string>
+    <string name="more_360_photos">More 360° photos</string>
+    <string name="syahdan_address">Jl. Kyai H. Syahdan No.9, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480</string>
+    <string name="kijang_address">Jl. Kemanggisan Ilir III No.45, RW.6, Kemanggisan, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480</string>
+    <string name="alsut_address">Kav 21, Alam Sutera Jalan Jalur Sutera Barat Panunggangan Timur Serpong Kota Tangerang Daerah Khusus Ibukota Jakarta, RT.001/RW.004, Panunggangan, Kec. Pinang, Kota Tangerang, Banten 15143</string>
+    <string name="jwc_address">Jl. Hang Lekir I No.6, RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270</string>
+    <string name="fx_address">Jl. Jend. Sudirman, RT.1/RW.3, Senayan, Tanahabang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270</string>
+    <string name="bandung_campus_address">Jalan Pasir Kaliki No.25-27, Kebon Jeruk, Andir, Kb. Jeruk, Kec. Andir, Kota Bandung, Jawa Barat 40181</string>
+    <string name="bekasi_campus_address">Jalan Lingkar Boulevar Blok WA No.1 Summarecon Bekasi Kel, RT.006/RW.003, Marga Mulya, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17142</string>
+    <string name="malang_campus_address">Araya Mansion No. 8 - 22, Genitri, Tirtomoyo, Kec. Pakis, Malang, Jawa Timur 65154</string>
+    <string name="tutorial_location">Tap here to change locations</string>
+    <string name="tutorial_campus">Tap here to know more about the campus</string>
+    <string name="tutorial_vr">Here is the 360° view of the campus. You can move your phone to see around the campus. Tap the VR icon to enter VR mode.</string>
+    <string name="ok">OK</string>
+    <string name="tutorial_more_photos">Tap here to see more 360° photos in the campus</string>
+    <string name="sorry_no_vr">We\'re sorry :(, there\'s no 360° photos for this campus yet.</string>
+    <string name="about">About</string>
+    <string name="about_content">Dibuat oleh:\nStanley - 2201766526\nIvan Setiawan - 2201772195\n\nUntuk mata kuliah Wearable Technology 2019-2020.</string>
 </resources>
