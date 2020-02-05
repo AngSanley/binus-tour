@@ -68,7 +68,7 @@ public class AnggrekFragment extends Fragment implements PanoRecyclerViewAdapter
         recyclerView.setAdapter(adapter);
 
         // load webview content
-        webView.loadDataWithBaseURL("file:///android_asset/", getHtmlFromAssets("syahdan.html"),"text/html","utf-8",null);
+        webView.loadDataWithBaseURL("file:///android_asset/", getHtmlFromAssets("anggrek.html"),"text/html","utf-8",null);
 
         loadPhotoSphere();
 
